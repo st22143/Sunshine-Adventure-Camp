@@ -3,7 +3,7 @@ import tkinter as tk
 root = tk.Tk()
 
 #Function for checking numbers in strings
-test = 5
+
 
 def numberchecker(entry_text):
     #I named the variabled placeholder because I suck at naming things
